@@ -4,7 +4,7 @@
 # @author: MicoMeter <289012724@qq.com>
 
 __doc__         = """
-@attention:The Tag.py module is the core of the PyH package. Tag lets you
+@attention:The Tag.py module is the core of the Tag package. Tag lets you
 generate HTML tags from within your python code.
 See https://github.com/289012724 for documentation.
 @param _attributies: use to contain all properties,such as id,width,height and so on 
